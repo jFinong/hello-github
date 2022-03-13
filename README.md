@@ -13,3 +13,4 @@
 ## i'm develop branch
 ## 我是fork出来的项目，我现在需要更新信息，然后测试推送到源项目
 ## 我是源项目的master分支，我现在要测试master分支的内容有更新后，在GitHub上会不会有同步到develop分支的选项
+## 测试组织的能力
